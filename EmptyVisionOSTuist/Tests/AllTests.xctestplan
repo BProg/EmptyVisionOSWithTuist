@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "1ACCD6C1-C4E8-4453-B307-D7678C864346",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:EmptyVisionOSTuist.xcodeproj",
+        "identifier" : "DDFAB3FDC2EC467AAECB3C7E",
+        "name" : "EmptyVisionOSTuistTests"
+      }
+    }
+  ],
+  "version" : 1
+}
